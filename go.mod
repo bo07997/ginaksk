@@ -1,4 +1,4 @@
-module github.com/antlinker/ginaksk
+module github.com/bo07997/ginaksk
 
 go 1.16
 
