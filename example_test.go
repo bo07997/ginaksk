@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/antlinker/ginaksk"
+	"github.com/bo07997/ginaksk"
 	"github.com/gin-gonic/gin"
 )
 
